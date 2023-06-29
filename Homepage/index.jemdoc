@@ -1,0 +1,103 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+=Bin Shi [https://scholar.google.com/citations?user=1pXvRD4AAAAJ&hl=en \[Google Scholar\]]
+
+~~~
+{}{img_left}{index_files/bin2.jpg}{alt text}{440}{420}{https://bin-shi-gif.github.io/}
+#Welcome to my homepage! 
+
+Associate Professor ([files/CV.pdf my resume])  Previously, I was a postdoc of [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan].\n
+[http://lsec.cc.ac.cn/ State Key Laboratory of Scientific and Engineering Computing] \n
+[http://www.amss.cas.cn/ Academy of Mathematics and Systems Science] \n
+[https://english.cas.cn/ Chinese Academy of Sciences]\n \n
+
+#Previously, I was a postdoc of [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan].
+#\n\n\n 
+ 
+#I am a postdoc hosted by
+#- [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan] in [https://eecs.berkeley.edu/ Department of Electrical Engineering and Computer Science] and [https://statistics.berkeley.edu/ Department of Statistics] at UC Berkeley  
+
+
+#Here is [files/CV.pdf my resume].  
+# Referred Experts: [https://scholar.google.com/citations?user=DJ8Ep8YAAAAJ&hl=en Yurii Nesterov] and [https://scholar.google.com/citations?user=pKr252gAAAAJ&hl=en Hedy Attouch]
+#My broad research interests are the mathematics related with physics and engineering, especially machine learning. \n \n \n\n
+
+
+Address: No.55 Zhong Guan Cun East Road, Beijing 100190, China \n
+Office: Z-502, AMSS, CAS \n
+Tel: +86-(010)82541583 \n
+#RISELab, UC Berkeley \n
+#465 Soda Hall, Berkeley, CA 94720 \n
+Email: shibin@lsec.cc.ac.cn  \n \n\n
+
+== Research interests
+-  (Statistical) Machine Learning                                 \n
+-  Scientific Computing and Computational Mathematics             \n    
+-  Nonlinear and Stochastic Sciences                              \n
+-  Geophysical and Astrophysical Fluid Dynamics 
+
+##  - Major in Differential Equations and Optimization \n
+#=== 2. Geophysical and Astrophysical Fluid Dynamics \n 
+#=== 3. Machine Learning 
+~~
+\n
+
+
+== Selected Publications
+- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 2022, 195(1):79–148./
+-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
+
+- [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators], /under review of Journal of Machine Learning Research./
+-- *Bin Shi*, Weijie Su and Michael I. Jordan
+
+
+- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
+-- *Bin Shi*
+
+
+- [https://arxiv.org/abs/2208.00956 An Adjoint-Free Algorithm for CNOPs via Sampling], /Nonlinear Processes in Geophysics, 2023+, (Forthcoming)./
+-- *Bin Shi* and Guodong Sun
+
+
+
+
+#\n
+#== Thesis in Fudan University (Advisor: [https://www.researchgate.net/profile/Xiaoping_Yuan2 Xiaoping Yuan])
+#- [http://cdmd.cnki.com.cn/Article/CDMD-10246-1011195593.htm Nekhoroshev Estimates for Infinite-Dimensional Reversible System with Chain Structure]
+
+
+#-- First-order optimization
+
+#- Started Topics 
+#-- Reinforcement learning, stochastic control and differential game 
+#-- Stochastic dynamics under quasi-periodic potential
+#-- Geometrical method for fluid dynamics
+#-- Mathematical theory of turbulence and geostrophic turbulence
+
+
+#- Starting Topics
+#-- Nonlinear Landau damping and KAM theory
+#-- Quantum Hall Effect
+#-- Many-Body Localization: Stability and Chaos
+
+
+#\n
+#== Employment
+#- Postdoc Scholar, University of California, Berkeley, 2019.1-2021.5 \n
+#  Hosted by [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan] 
+#== Education
+#- Ph.D in Computer Science, Florida International University, 2015-2018 \n
+#  Major: Theoretical Machine Learning
+#- M.S. in Physics, University of Massachussets, Dartmouth, 2013-2015 (Recommended to U.S.A. by [https://www.whoi.edu/science/po/people/rhuang/ Rui Xin Huang] with personal capacity)\n
+#  Major: Theoretical Physics
+#- M.S. in Mathematics, Fudan University, 2008-2011 \n
+#  Major: Pure Mathematics\n 
+#  Thesis: [http://cdmd.cnki.com.cn/Article/CDMD-10246-1011195593.htm Nekhoroshev Estimates for Infinite-Dimensional Reversible System with Chain Structure] \n
+#  Advisor: [https://www.researchgate.net/profile/Xiaoping_Yuan2 Xiaoping Yuan]
+#- B.S. in Mathematics, Ocean University of China, 2002-2006 \n
+#  Major: Pure and Applied Mathematics
+#\n
+#== Academic appointments 
+#- 2018.7-2018.8   Visting Graduate Student \n
+#           [https://statistics.wharton.upenn.edu/  Department of Statistics] at the Wharton School,  University of Pennsylvania \n
+#          (Hosted by [http://stat.wharton.upenn.edu/~suw/ Weijie J. Su]) 
+#- 2009.7-2009.8 Graduate Student,  Peking University, Peking National Summer School of Geometry

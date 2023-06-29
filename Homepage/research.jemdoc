@@ -1,0 +1,115 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+= Research 
+
+#== Research interests
+#- Finished Topics
+#-- First-order optimization
+
+#- Started Topics 
+#-- Reinforcement learning, stochastic control and differential game 
+#-- Stochastic dynamics under quasi-periodic potential
+#-- Geometrical method for fluid dynamics
+#-- Mathematical theory of turbulence and geostrophic turbulence
+
+
+#- Starting Topics
+#-- Nonlinear Landau damping and KAM theory
+#-- Quantum Hall Effect
+#-- Many-Body Localization: Stability and Chaos
+
+== Publications 
+
+- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
+-- *Bin Shi*
+
+- [https://arxiv.org/abs/2208.00956 An Adjoint-Free Algorithm for CNOPs via Sampling], /Nonlinear Processes in Geophysics, 2023+, (Forthcoming)./
+-- *Bin Shi* and Guodong Sun
+
+
+- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 2022, 195(1):79–148./
+-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
+
+
+
+- [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 2022, 46(1):207-225./
+-- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
+
+- [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019)./ 
+-- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
+
+
+
+
+== Monograph 
+- [https://www.springer.com/gp/book/9783030170752 Mathematical Theories of Machine Learning - Theory and Applications], /Springer International Publishing, 2020./
+-- *Bin Shi* and Sundaraja S. Iyengar
+
+
+
+
+
+
+
+
+== Preprints 
+#- [https://arxiv.org/abs/1810.08907 Understanding the Acceleration Phenomenon via High-Resolution Differential Equations]
+#-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
+#-- /under review of Mathematical Programming/
+
+- [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators],
+-- *Bin Shi*, Weijie Su and Michael I. Jordan
+-- /under review of Journal of Machine Learning Research/
+
+
+#-- /Submitted/
+
+
+
+- [https://arxiv.org/abs/2209.08862 Gradient Norm Minimization of Nesterov's Acceleration o(1/k^3)],
+-- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+- [https://arxiv.org/abs/2210.06011 Optimal Initial Disturbance of Atmospheric Blocking: A Barotropic View],
+-- *Bin Shi*, Dehai Luo and Wenqi Zhang
+#-- /Submitted/
+
+- [https://arxiv.org/abs/2211.01610 Proximal Subgradient Norm Minimization of ISTA and FISTA],
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+- [https://arxiv.org/abs/2212.05700 Revisiting the acceleration phenomenon via high-resolution differential equations],
+-- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+- [https://arxiv.org/abs/2212.06319 Linear Convergence of ISTA and FISTA],
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+- [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration],
+-- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+
+- [https://arxiv.org/abs/2306.09694 Linear convergence of Nesterov-1983 with the strong convexity],
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+
+== Workshop Paper
+- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], Thirty-first Conference on Neural Information Processing Systems/ (NeurIPS2017)
+-- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
+
+#== In Preparation
+#- On the Hyperparameters in SGD with Momentum
+#-- *Bin Shi*
+
+#- Inverse Energy Transfer in the 2D Incompressible Euler Equation
+#-- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
+
+#- On the Spectral Analysis of Fokker-Planck Equation for Quasi-Periodic Potential
+#-- *Bin Shi* and Yunfeng Shi
+
+#- Spectral Theory for Kinetic Fokker-Planck Equation with Quasi-Periodic Potential
+#-- *Bin Shi* and Yunfeng Shi
+
+
